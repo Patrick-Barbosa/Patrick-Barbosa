@@ -5,7 +5,7 @@
 <ul>
   <li> Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Formação prevista para 2024. </li>
   <li> Atualmente estou estudando HTML e CSS. </li>
-  <li> Pretendo me especializar em C# .NET </li>
+  <li> Pretendo me especializar em Java Springboot </li>
 </ul>
 
 </br>
