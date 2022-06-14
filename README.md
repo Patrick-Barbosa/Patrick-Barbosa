@@ -10,6 +10,8 @@
 
 </br>
 
+![](https://komarev.com/ghpvc/?username=patrick-barbosa&style=for-the-badge)
+
 <h2>Tecnologias Utilizadas</h2>
 <div align="center">
   <a href="//www.github.com/patrick-barbosa">
