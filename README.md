@@ -30,13 +30,21 @@
 <a href="https://wa.me/5521966086050" target="_blank"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </br>
+</br>
 
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&username=patrick-barbosa" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&custom_title=statsbar&username=patrick-barbosa" height="150" alt="languages graph"  />
+</div>
+
+
+</br>
+
+<div align="center">
   <img height="200" src="https://media2.giphy.com/media/zZC2AqB84z7zFnlkbF/giphy.gif?cid=ecf05e47cn16bflhjstbref66xqw1saxylf1vlhi913cyd27&rid=giphy.gif&ct=g"  />
 </div>
+
  
 ###
 <div align="center">
