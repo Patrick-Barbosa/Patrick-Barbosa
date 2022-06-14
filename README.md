@@ -3,14 +3,12 @@
 <div>Sou um ingressante no mundo tech e busco aprender ao máximo para realizar minha transição de carreira. Anseio futuramente trabalhar com o que amo.</div>
 </br>
 <ul>
-  <li> Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Formação prevista para 2024. </li>
-  <li> Atualmente estou estudando HTML e CSS. Também estou trabalhando em um projeto para fazer um CRUD em Java. </li>
-  <li> Pretendo me especializar em Java Springboot </li>
+  <li> Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, estou no final do segundo período. Formação prevista para Jul/2024. </li>
+  <li> Atualmente estou estudando Java (Collections e Generics) e SQL. Também estou trabalhando em um projeto para fazer um CRUD em Java. </li>
+  <li> Pretendo me especializar em back-end com Java Spring. </li>
 </ul>
 
 </br>
-
-![](https://komarev.com/ghpvc/?username=patrick-barbosa&style=for-the-badge)
 
 <h2>Tecnologias Utilizadas</h2>
 <div align="center">
@@ -21,7 +19,6 @@
   <img align="left" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
   <img align="left" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
 </div>
 
 </br>
@@ -33,12 +30,15 @@
 <a href="https://wa.me/5521966086050" target="_blank"><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </br>
-</br>  
-</br>
 
-<div align="center">
-  <a href="https://github.com/Patrick-Barbosa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=patrick-barbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-barbosa&layout=compact&langs_count=7&theme=dracula"/>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&username=patrick-barbosa" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&custom_title=statsbar&username=patrick-barbosa" height="150" alt="languages graph"  />
+  <img height="200" src="https://media2.giphy.com/media/zZC2AqB84z7zFnlkbF/giphy.gif?cid=ecf05e47cn16bflhjstbref66xqw1saxylf1vlhi913cyd27&rid=giphy.gif&ct=g"  />
 </div>
-  
+ 
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/patrick-barbosa/count.svg?"  />
+</div>
