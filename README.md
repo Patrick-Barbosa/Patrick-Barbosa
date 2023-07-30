@@ -2,7 +2,7 @@
 
 </br>
 
-Sou um iniciante no mundo tech, estou fazendo estágio no Grupo Trigo na parte de Data Analytics. Sempre busco aprender ao máximo para continuar vivendo meu sonho de trabalhar com dados.
+Tenho 21 anos e estou fazendo estágio no Grupo Trigo na parte de Data Analytics. Sempre busco aprender ao máximo para continuar vivendo meu sonho de trabalhar com dados.
 
 - Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, estou no final do segundo período. Formação prevista para Dez/2023
 - Atualmente estou estudando Python (Pandas, Numpy Streamlit) e SQL. Em paralelo sempre estou trabalhando em projetos pessoais. Futuramente planejo aprender as tecnologias da Azure.
